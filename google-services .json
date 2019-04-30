@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676460302947",
+    "firebase_url": "https://volleyornek-dc10a.firebaseio.com",
+    "project_id": "volleyornek-dc10a",
+    "storage_bucket": "volleyornek-dc10a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676460302947:android:bb4b669e2041c963",
+        "android_client_info": {
+          "package_name": "com.example.ertugrul.volleyornek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676460302947-ndmc3jpmf1f3o1mq0p6qmj9i6cr56lam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ertugrul.volleyornek",
+            "certificate_hash": "d8f10dcbfa2dd026c2fa56a26b417a284e6793bb"
+          }
+        },
+        {
+          "client_id": "676460302947-u24ugi2fv4n0l43fbp6dri4h08rbi72f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLjwDsMSFUimdA9iiWg9vTRMQ8oBLOm-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676460302947-u24ugi2fv4n0l43fbp6dri4h08rbi72f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
